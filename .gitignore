@@ -1,0 +1,9 @@
+.gitignore
+venv
+# Bảo mật thông tin email
+Baitap/email_config.py
+Chapter_3/
+buoi2/
+buoi3/
+buoi4/
+git/
