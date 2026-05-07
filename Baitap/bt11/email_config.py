@@ -13,10 +13,4 @@
 #     "sender_password": "your_app_password",  # Thay bằng App Password của bạn
 #     "receiver_email": "recipient@gmail.com"  # Thay bằng email người nhận
 # }
-EMAIL_CONFIG = {
-    "smtp_server": "smtp.gmail.com",
-    "smtp_port": 587,
-    "sender_email": "trung01694011@gmail.com",  # Thay bằng email của bạn
-    "sender_password": "schx hzeq pqwr dnyq",  # Thay bằng App Password của bạn
-    "receiver_email": "trung_2351220236@dau.edu.vn"  # Thay bằng email người nhận
-}
+
